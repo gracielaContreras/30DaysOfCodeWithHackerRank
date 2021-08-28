@@ -1,7 +1,7 @@
 import java.security.Permission;
 import java.util.Scanner;
 
-public class prueba {
+class prueba {
     public static void main(String[] args) {
 
         DoNotTerminate.forbidExit();
